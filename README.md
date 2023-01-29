@@ -23,4 +23,4 @@ Server run default on port `5000`.
 
 ### `Database`
 
-[MySQL](https://www.mysql.com/) database needed.\
+[MySQL](https://www.mysql.com/) database needed.
