@@ -1,4 +1,4 @@
-# Fullstack App product-images
+# Fullstack App Product Images
 
 This project was built with MySQL, [ExpressJS](https://github.com/expressjs/express), [ReactJS](https://github.com/facebook/create-react-app) & NodeJS.
 
