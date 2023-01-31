@@ -1,6 +1,6 @@
 # Fullstack App Product Images
 
-This project was built with MySQL, [ExpressJS](https://github.com/expressjs/express), [ReactJS](https://github.com/facebook/create-react-app) & NodeJS.
+This project was built with [MySQL](https://www.mysql.com/), [ExpressJS](https://github.com/expressjs/express), [ReactJS](https://github.com/facebook/create-react-app) & [NodeJS](https://nodejs.org/en/).
 
 ## Getting Started
 
@@ -23,4 +23,5 @@ Server run default on port `5000`.
 
 ### `Database`
 
+Make databse `mern_product_db`.\
 [MySQL](https://www.mysql.com/) database needed.
